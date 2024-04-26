@@ -48,3 +48,16 @@
     font-size: 22px;
 }
 
+
+.pageClose{
+    background-color: #ECCEFF;
+}
+.sign{
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 22px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
