@@ -1,0 +1,31 @@
+.pageTitle{
+    background-color: #CEFBFF;
+}
+
+.articleTitle{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#707070;
+}
+
+.articleText{
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+}
+
+.button{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-decoration: none;
+    background: #240202;
+    display: block;
+    padding: 14px 33px 14px 33px;
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+
